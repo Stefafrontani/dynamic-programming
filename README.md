@@ -1,2 +1,2 @@
 # dynamic-programming
-Examples and theory related to dynamic examples. 
+Examples and theory related to dynamic programming. 
